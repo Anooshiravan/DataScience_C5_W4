@@ -12,10 +12,10 @@ Across the United States, which types of events have the greatest economic conse
 
 # Depressive Deviation*  
 
-It is common knowledge, that 2016s election of Donald Trump as US president is the most harmful EVENT in the last 50 years to the U.S. citizens health and overall U.S. economic situation.  
+It is common knowledge, that 2016s election of Donald Trump as US president is the most harmful EVENT to the U.S. citizens health and overall U.S. economic situation.  
 Unfortunately the EVTYPE 'DTRUMP' is not present in the data source.  
 Therefore our analysis is limited to the EVTYPEs that are observed since 1950 in NOAA dataset, and might not truthfully represent the actual situation.  
-*Depressive Deviation (DD) is, or should be, a new statistical method to analyze harmful EVTYPEs for human health and wealth ;-)  
+*Depressive Deviation (DD) is, or should be, a new statistical method to analyze harmful EVTYPEs for human health and wealth since November 8, 2016 ;-)  
 
 
 # Data Processing
